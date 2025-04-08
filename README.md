@@ -1,4 +1,4 @@
-# JSTACK-Job-Portal-Website-By-Tech2etc
+# JSTACK-Job-Portal-
 
 Welcome to JSTACK, a job portal website project aimed at helping job seekers and employers connect efficiently. This repository contains all the necessary files and resources to build and deploy the JSTACK website.
 
@@ -22,7 +22,3 @@ JSTACK is a web-based platform designed to streamline the job search process. It
 
 ## Usage
 To use JSTACK, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser. You can customize the website by editing the HTML, CSS, and JavaScript files as needed. Make sure to replace the placeholder images in the `img` directory with your own images.
-
-## License
-This project is licensed under the MIT License.
-This README provides an overview of the JSTACK project, its features, file structure, usage instructions, guidelines for contributing, and licensing information. Adjust the sections and content as needed to fit your project.
